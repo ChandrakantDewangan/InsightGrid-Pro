@@ -1,6 +1,7 @@
 # InsightGrid Pro - Universal Data Viewer
 
 InsightGrid Pro is a powerful, React-based data analysis component designed to provide enterprise-level reporting capabilities. It combines a robust data grid, dynamic visualization, and AI-powered insights into a single, easy-to-integrate component.
+![application](./image.png)
 
 ## Features
 
